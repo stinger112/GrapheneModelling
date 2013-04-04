@@ -1,0 +1,2 @@
+﻿This is my old course project based on standart Qt demo. It has simple GUI and movable carbon atoms. User sets structure parameters and program makes 2D graphene lattice with first approximation relations between atoms.
+WARNING: Do not set large numbers in structure parameters! Your PC will be very lagging!
